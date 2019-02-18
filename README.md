@@ -5,7 +5,7 @@ Conduct Summary Analysis on coaches' salaries and stats of their college teams. 
 
 ### Visual Aids:
 
-<font color = 'blue'> #### Point Differentials over time for a given school
+#### <font color = 'blue'>  Point Differentials over time for a given school </font>
 ![](https://github.com/ptbailey/College-Basketball-Analysis/blob/master/screenshots/school%20pts1.png)
 ![](https://github.com/ptbailey/College-Basketball-Analysis/blob/master/screenshots/school%20pts2.png)
 
