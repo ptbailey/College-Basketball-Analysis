@@ -5,11 +5,11 @@ Conduct Summary Analysis on coaches' salaries and stats of their college teams. 
 
 ### Visual Aids:
 
-#### <font color = 'blue'> Point Differentials over time for a given school
+<font color = 'blue'> #### Point Differentials over time for a given school
 ![](https://github.com/ptbailey/College-Basketball-Analysis/blob/master/screenshots/school%20pts1.png)
 ![](https://github.com/ptbailey/College-Basketball-Analysis/blob/master/screenshots/school%20pts2.png)
 
-#### <font color = 'blue'> Average Salaries of Coaches
+#### Average Salaries of Coaches
 ![](https://github.com/ptbailey/College-Basketball-Analysis/blob/master/screenshots/coaches%20salaries.png)
 
 #### <font color = 'blue'> Highest Paid Coaches Salaries
